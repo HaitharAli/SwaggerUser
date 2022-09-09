@@ -1,0 +1,2 @@
+-> Spring open-API with Basic Authentication
+-> Explored Persistance API Native query, Entity Manager, @NamedQuery as well
